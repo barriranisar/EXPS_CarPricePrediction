@@ -77,28 +77,3 @@ $$\text{Recommended Market Price} = \frac{\text{Price}_{\text{RandomForest}} + \
  RECOMMENDED MARKET PRICE : $32,605.54
  Expected Valuation Range  : $31,299.09 – $33,911.99
 =================================================================
-
-🛠️ Technology Stack
-Programming Language: Python 3.x[cite: 1]
-
-Data Analysis & Preprocessing: Pandas, NumPy[cite: 1]
-
-Machine Learning: Scikit-Learn (RandomForestRegressor, GradientBoostingRegressor, StandardScaler, train_test_split)[cite: 1]
-
-Data Visualization: Matplotlib, Seaborn[cite: 1]
-
-Environment: Jupyter Notebook[cite: 1]
-
-🚀 How to Run
-Clone this repository:
-
-Bash
-git clone [https://github.com/](https://github.com/)<your-username>/EXPS_CarPricePrediction.git
-Install dependencies:
-
-Bash
-pip install numpy pandas matplotlib seaborn scikit-learn
-Open and run the Jupyter Notebook:
-
-Bash
-jupyter notebook
